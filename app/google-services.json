@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737329034665",
+    "firebase_url": "https://autenticacao-61ac9.firebaseio.com",
+    "project_id": "autenticacao-61ac9",
+    "storage_bucket": "autenticacao-61ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737329034665:android:65b8eadd54015c8e",
+        "android_client_info": {
+          "package_name": "com.example.aluno.autenticacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737329034665-n2hpn0rji4qd4sq7vn5mitugrd12ud3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aluno.autenticacao",
+            "certificate_hash": "f1597f572188b0fb43dd37ef49e962d31afe86dd"
+          }
+        },
+        {
+          "client_id": "737329034665-2eh6t6jemn6v8o75n1f2lqre8gopa3t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZugWSkDGpWHKOGo8sJDPztHHntS5HXI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737329034665-2eh6t6jemn6v8o75n1f2lqre8gopa3t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
